@@ -1,0 +1,5 @@
+1. pwd: Bulunulan mevcut calisma dizinini gosterir.
+2. ls: Dizin icerisindeki dosya ve klasorleri listeler.
+3. cd: Dizinler arasinda gecis yapmayi saglar.
+4. mkdir: Yeni bir klasor olusturur.
+5. rm: Dosya veya klasorleri siler.
