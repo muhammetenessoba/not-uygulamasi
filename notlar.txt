@@ -3,3 +3,9 @@
 3. cd: Dizinler arasinda gecis yapmayi saglar.
 4. mkdir: Yeni bir klasor olusturur.
 5. rm: Dosya veya klasorleri siler.
+
+6. git init: Yeni bir Git deposu baslatir.
+7. git status: Calisma dizini ve staging area durumunu kontrol eder.
+8. git add: Degisiklikleri staging area'ya ekler.
+9. git commit: Degisiklikleri yerel depoya kaydeder.
+10. git log: Commit gecmisini listeler.
